@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-oliveira/node-farm.git"
+  },
+  "author": "Lucas Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas-oliveira/node-farm/issues"
+  },
+  "homepage": "https://github.com/lucas-oliveira/node-farm#readme",
+  "dependencies": {
+    "slugify": "^1.3.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
